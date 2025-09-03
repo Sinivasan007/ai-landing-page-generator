@@ -1,1 +1,0 @@
-# ai-landing-page-generator
